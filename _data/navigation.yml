@@ -8,9 +8,9 @@ main:
 docs:
   - title: "Dev"
       - title: "DataStructure"
-      - url: /categories/
+        url: /categories/
       - title: "StableDiffusion"
-      - url: /categories/
+        url: /categories/
   - title: "Game Dev"
     children:
       - title: "Unity"

@@ -9,7 +9,7 @@ docs:
   - title: "Dev"
     children:
       - title: "DataStructure"
-        url: /categories/DataStructure
+        url: /categories/DataStructure/
       - title: "StableDiffusion"
         url: /categories/
   - title: "Game Dev"

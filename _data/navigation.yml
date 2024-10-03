@@ -6,6 +6,11 @@ main:
     url: /search/
 
 docs:
+  - title: "Dev"
+      - title: "DataStructure"
+      - url: /categories/
+      - title: "StableDiffusion"
+      - url: /categories/
   - title: "Game Dev"
     children:
       - title: "Unity"

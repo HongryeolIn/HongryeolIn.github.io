@@ -324,8 +324,8 @@ defaults:
       related: true
       show_date: true
       toc: true
-      toc_label: 목차
       toc_sticky: true
+      toc_label: 목차
       toc_icon: "fas fa-utensils"
       comments: false # true
 

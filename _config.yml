@@ -320,7 +320,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false # true
       share: true
       related: true
       show_date: true
@@ -328,5 +327,6 @@ defaults:
       toc_label: 목차
       toc_sticky: true
       toc_icon: "fas fa-utensils"
+      comments: false # true
 
 date_format: "%Y-%m-%d"
